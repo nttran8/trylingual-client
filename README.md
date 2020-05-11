@@ -8,6 +8,12 @@ Currently, the app only comes in German.
 
 https://try-lingual.now.sh/
 
+Demo account
+
+| Username | Password    |
+| -------- | ----------- |
+| example  | Example123! |
+
 ## Authors
 
 - Nghi Tran
